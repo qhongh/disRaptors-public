@@ -1,0 +1,17 @@
+langchain-pinecone
+langchain-anthropic
+langchain-openai
+langchain-core
+langchain
+llama-index-core
+pinecone-text
+jsonschema==3.2.0
+pillow
+streamlit==1.33.0
+pytz==2022.1
+urllib3==1.26.0
+st-pages
+pyparsing
+openpyxl
+matplotlib
+watchdog
